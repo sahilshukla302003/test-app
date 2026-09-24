@@ -42,8 +42,8 @@ Quiz CLI is a dependency-free Node.js terminal application. It loads quiz questi
 Clone the repository and enter the application directory:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>/test-app
+git clone https://github.com/sahilshukla302003/test-app.git
+cd test-app/test-app
 ```
 
 This project has no third-party packages, so `npm install` is not required. You may run it if you want npm to validate the package metadata, but it will not install dependencies.
